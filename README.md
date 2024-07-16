@@ -1,4 +1,4 @@
-## Hi there 👋. Thanks for stopping by...
+![Profile Header](./images/profile-header.png)
 
 ### 👨🏽‍💻 About Me
 
